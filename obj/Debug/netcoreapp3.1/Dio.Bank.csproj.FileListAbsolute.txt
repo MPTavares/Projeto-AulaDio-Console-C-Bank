@@ -1,0 +1,13 @@
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csprojAssemblyReference.cache
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+E:\Mysites\Learning\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+E:\Mysites\Learning\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
